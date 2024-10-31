@@ -1,0 +1,29 @@
+body { background-color:aqua; }
+
+
+#page-wrapper {
+    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+header {
+    border: 1px Solid Black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.menu ul li {
+    display: inline;
+    /* padding: 5px; */
+    padding: 24px 24px;
+}
+
+.banner
+ /* by the ID = #*/ /*Hightest Priority */
+ /* bu the Class =.*/ /* Medium Priority*?
+p { color: purple; } ?* by the tag name */ /* Lowest Priority*?
+/* About Section */
